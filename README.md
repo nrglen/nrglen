@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I'm Nadinson, I like engineering, business, and technology, I'm an enthusiast of AI, and mobile apps, and optimization.
+- 🔭 I’m currently working on @Touch, an amazing social network that will be on everyone's lips in no time.
+- 🌱 I’m currently learning [AI for software development](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai) on Coursera.
+- 📫 you can reach me through my  [Linkedin](https://www.linkedin.com/in/nadinson-ramos-glen-950950243/) profile.
 <!--
 **nrglen/nrglen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
